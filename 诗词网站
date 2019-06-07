@@ -1,0 +1,19 @@
+<html>
+  <head>
+   <meta charset="utf-8">
+    <title>诗经</title>
+  </head>
+<style>
+  a{
+    text-decoration:none;/*去除链接下划线*/
+  }
+  .yanse{
+    background-color:blue;
+    font-size:30px;
+  }
+</style>
+
+  <body>
+<h1 class="yanse">诗经</h1>
+  </body>
+</html>
